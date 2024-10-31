@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "415691807366",
+    "project_id": "lab1restapi-f67b3",
+    "storage_bucket": "lab1restapi-f67b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415691807366:android:8f4ad93e0b5fc0b0fc0f07",
+        "android_client_info": {
+          "package_name": "fpoly.baodg.lab1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW1Rm32xVRdF8n5kqQwQUqy41iB0PtQBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
