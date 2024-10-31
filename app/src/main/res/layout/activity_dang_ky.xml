@@ -23,6 +23,13 @@
         android:text="Click here"
         android:layout_gravity="center"
         android:backgroundTint="#2196F3"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="GitHub"
+        android:textSize="30dp"
+        android:layout_gravity="center"/>
    
     
 
