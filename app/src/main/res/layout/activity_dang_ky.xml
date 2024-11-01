@@ -11,25 +11,53 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Màn hình chính"
+        android:text="Đăng kí"
+        android:textSize="35dp"
         android:textStyle="bold"
-        android:textSize="30dp"
-        android:gravity="center"
-        android:layout_gravity="center"/>
-
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Click here"
+        android:textAllCaps="true"
         android:layout_gravity="center"
-        android:backgroundTint="#2196F3"/>
+        android:textColor="#00BCD4"/>
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="GitHub"
-        android:textSize="30dp"
-        android:layout_gravity="center"/>
+        android:text="User name"
+        android:textStyle="bold"
+        android:textSize="20dp"
+        android:padding="10dp"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/edtNameDK"
+        android:layout_marginHorizontal="10dp"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Password"
+        android:textStyle="bold"
+        android:textSize="20dp"
+        android:padding="10dp"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/edtPassDK"
+        android:layout_marginHorizontal="10dp"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="10dp"
+        android:layout_marginTop="20dp"
+        android:backgroundTint="#00BCD4"
+        android:text="Login"
+        android:textAllCaps="true"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:id="@+id/btnSignUp"/>
    
     
 
